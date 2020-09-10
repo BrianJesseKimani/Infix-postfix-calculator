@@ -1,0 +1,75 @@
+AUTHOR - Brian Kimani(bkimani@u.rochester.edu) and Kevin Tusiime(rtusiime@u.rochester.edu)
+
+Microsoft Windows [Version 10.0.17763.1039]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\brian\OneDrive\Documents\CSC\172Project_1\src>javac Calculator.java
+
+C:\Users\brian\OneDrive\Documents\CSC\172Project_1\src>java Calculator infix_expr_short.txt myResults.txt
+Answer: 2.0
+2.0
+Answer: 6.2
+6.2
+Answer: 6.2
+6.2
+Answer: 0.0
+0.0
+Answer: 4.2
+4.2
+Answer: -4.2
+-4.2
+Answer: 12.0
+12.0
+Answer: 16.0
+16.0
+Answer: -8.0
+-8.0
+Answer: 9.0
+9.0
+Answer: 1.0
+1.0
+Answer: 0.0
+0.0
+Answer: 0.0
+0.0
+Answer: 1.0
+1.0
+Answer: 1.0
+1.0
+Answer: 1.0
+1.0
+Answer: 0.0
+0.0
+Answer: 1.0
+1.0
+Answer: 0.0
+0.0
+Answer: 1.0
+1.0
+Answer: 0.0
+0.0
+Answer: 1.0
+1.0
+Answer: 0.0
+0.0
+Answer: 0.0
+0.0
+Answer: 1.0
+
+C:\Users\brian\OneDrive\Documents\CSC\172Project_1\src> java tests.java
+Answer: 0.8509035245341184
+Answer: 5.947216871180841
+Answer: 1.6197751905438615
+Answer: 2.0
+Answer: 3125.0
+
+C:\Users\brian\OneDrive\Documents\CSC\172Project_1\src>diff myResults.txt postfix_eval_short.txt
+'diff' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\brian\OneDrive\Documents\CSC\172Project_1\src>fc myResults.txt postfix_eval_short.txt
+Comparing files myResults.txt and POSTFIX_EVAL_SHORT.TXT
+FC: no differences encountered
+
+
+C:\Users\brian\OneDrive\Documents\CSC\172Project_1\src>
