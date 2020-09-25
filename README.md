@@ -19,7 +19,7 @@ Our code comprises the following:
 7. OUTPUT from the command line
 8. postfix_eval_short
 
-The labs package comprises our stack and queue implementations from previous labs.
+The labs package comprises our stack and queue data structures used to implement the shunting yard alrgorithm.
 The Calculator class which contains all the code for this assignment(converting to 
 postfix, postfix evaluation).
 
