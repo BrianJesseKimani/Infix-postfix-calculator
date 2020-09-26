@@ -1,10 +1,7 @@
 /* 
  * Name: Brian Jesse Gatukui Kimani
- * NetID: bkimani (bkimani@u.rochester.edu)
- * partner:rtusiime (rtusiime@u.rochester.edu)
- * project 1
- * Lab TR 14:00 - 15:15 
- * I collaborated with Kevin Tusiime on this assignment.		
+ * project 1 
+ * I collaborated with Kevin Tusiime		
  */
 
 Our code comprises the following: 
@@ -18,7 +15,7 @@ Our code comprises the following:
 8. postfix_eval_short
 
 The labs package comprises our stack and queue implementations from previous labs.
-The Calculator class which contains all the code for this assignment(converting to 
+The Calculator class which contains all the code(converting to 
 postfix, postfix evaluation).
 
 Kindly run the code on the command-line, with the first argument being the input txt 
@@ -30,7 +27,5 @@ The following are our avenues for extra credit:
 Implementation of all trigonometric functions: sin, cosine, tan
 Implementation of modulo and exponential functions
 Astute handling of invalid inputs
-
-We believe that our noble endeavours warrant full extra credit(20%)
 
 Thank you.
