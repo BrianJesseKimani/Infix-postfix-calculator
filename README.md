@@ -17,7 +17,7 @@ Our code comprises the following:
 8. postfix_eval_short
 
 The labs package comprises our stack and queue data structures used to implement the shunting yard alrgorithm.
-The Calculator class which contains all the code for this assignment(converting to 
+The Calculator class which contains all the code (converting to 
 postfix, postfix evaluation).
 
 Kindly run the code on the command-line, with the first argument being the input txt 
