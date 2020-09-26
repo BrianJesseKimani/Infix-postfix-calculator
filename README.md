@@ -2,11 +2,8 @@
 
 /* 
  * Name: Brian Jesse Gatukui Kimani
- * NetID: bkimani 
- * partner:rtusiime 
  * project 1
- * Lab TR 14:00 - 15:15 
- * I collaborated with Kevin Tusiime on this assignment.		
+ * I collaborated with Kevin Tusiime 		
  */
 
 Our code comprises the following: 
@@ -32,7 +29,5 @@ The following are our avenues for extra credit:
 Implementation of all trigonometric functions: sin, cosine, tan
 Implementation of modulo and exponential functions
 Astute handling of invalid inputs
-
-We believe that our noble endeavours warrant full extra credit(20%)
 
 Thank you.
